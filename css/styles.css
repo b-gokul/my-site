@@ -84,7 +84,9 @@ a:hover {
   padding-top: 30px;
 }
 .intro {
-   padding-bottom: 30px;
+     width: 40%;
+  margin: 40px auto 40px auto;
+  line-height: 2;
 }
 .skills {
 
